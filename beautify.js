@@ -2,7 +2,7 @@
 
 'use strict';
 
-angular.module('vk.beautify')
+angular.module('vk.beautify', [])
   .factory('vkBeautify', function Beautify() {
 
     /**
